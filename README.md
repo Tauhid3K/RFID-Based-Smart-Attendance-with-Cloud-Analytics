@@ -1,4 +1,4 @@
-"# RFID-Based-Smart-Attendance-with-Cloud-Analytics" 
+
 # Project: ESP32 RFID Attendance Management System (Offline, SD Card, Web Dashboard)
 
 This project is a completely offline RFID-based Attendance Management System powered by an ESP32. It stores all student details and attendance logs directly on an SD card (using JSON and CSV formats) and hosts a responsive web dashboard accessible over the local Wi-Fi network.
