@@ -1,0 +1,22 @@
+[
+  {
+    "uid": "A1B2C3D4",
+    "name": "Hasan Ahmed",
+    "roll": "1001",
+    "dept": "CSE",
+    "sem": "5th",
+    "session": "2022-2023",
+    "phone": "01700-000000",
+    "email": "someone@gmail.com"
+  },
+  {
+    "uid": "E5F6A7B8",
+    "name": "John Smith",
+    "roll": "2002",
+    "dept": "EEE",
+    "sem": "3rd",
+    "session": "2021-2022",
+    "phone": "+1987654321",
+    "email": "john.smith@example.com"
+  }
+]
